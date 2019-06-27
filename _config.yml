@@ -58,11 +58,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Jaden Bryan"
+  avatar : "https://lh3.googleusercontent.com/-gkH6qWO4jYY/XLjBKGpTVDI/AAAAAAAABuo/IGweyq8fM4Az5rse88WVBAo2F8P4t_2DQCEwYBhgL/w140-h140-p/IMG_0010.JPG"
+  bio    : "High School Senior specializing in research and software development."
   links:
-    - label: "Website"
+    - label: "http://jaden.website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
